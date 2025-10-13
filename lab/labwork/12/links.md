@@ -1,0 +1,1 @@
+# geekforgeeks: <https://www.geeksforgeeks.org/computer-networks/pgp-authentication-and-confidentiality/>
